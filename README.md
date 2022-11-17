@@ -1,4 +1,14 @@
-### Hi there 👋
+
+# Hi there 👋 
+
+🇫🇷 I'm Nathan, and i like front-end !
+
+I’m currently learning amazing things ... and I am passionate about blockchain & cryptocurrency.      
+👉 I am currently looking for a job in France.
+
+☕️ Languages : Javascript, Typescript, Solidity, HTML, CSS     
+✍️ Tools : React, NextJS, StoryBook, Tailwind, Bootstrap, Web3 JS   
+⚡ Versioning : Github, GitLab
 
 <!--
 **GenesisBlock2140/GenesisBlock2140** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
